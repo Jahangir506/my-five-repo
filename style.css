@@ -1,0 +1,23 @@
+.blog{
+  margin: 10px;
+}
+h1{
+  color: red;
+}
+.color{
+  color: blue;
+}
+p{
+  background-color: green;
+  color: white;
+  width: 25%;
+  border-radius: 5px;
+  text-align: justify;
+  padding: 10px;
+  margin-top: 12px;
+}
+img{
+  height: 150px;
+  width: 150px;
+  margin: 10px;
+}
